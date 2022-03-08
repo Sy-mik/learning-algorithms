@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Miscellaneous", "Miscellaneous\Miscellaneous.csproj", "{065D771B-69C1-4490-81F0-2E1DC5A04BC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Miscellaneous.UnitTests", "Miscellaneous.UnitTests\Miscellaneous.UnitTests.csproj", "{2D3951DE-51FB-4FD5-B3DB-A8885069488F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{065D771B-69C1-4490-81F0-2E1DC5A04BC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{065D771B-69C1-4490-81F0-2E1DC5A04BC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{065D771B-69C1-4490-81F0-2E1DC5A04BC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{065D771B-69C1-4490-81F0-2E1DC5A04BC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D3951DE-51FB-4FD5-B3DB-A8885069488F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D3951DE-51FB-4FD5-B3DB-A8885069488F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D3951DE-51FB-4FD5-B3DB-A8885069488F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D3951DE-51FB-4FD5-B3DB-A8885069488F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
